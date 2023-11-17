@@ -51,3 +51,15 @@ Before running, ensure you have MongoDB installed and running locally. Check for
 Once the installations and configurations are completed, execute the project.
 
 --> Now, the application is ready to use! Open your web browser and access the application.
+
+
+## Demo Screenshots : 
+
+1. Dashboard
+![Screenshot (56)](https://github.com/Debasish121/user-management-app/assets/85250115/8c9f14f1-f9bf-4f0b-880a-62bba281a7e3)
+
+2. Account Creation
+![Screenshot (57)](https://github.com/Debasish121/user-management-app/assets/85250115/dddfcb24-4137-4fc4-8735-eb5e41f09021)
+
+3. Update User
+![Screenshot (58)](https://github.com/Debasish121/user-management-app/assets/85250115/c2cd66ca-9b94-478f-ae9f-496568ae7b90) 
