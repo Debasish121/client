@@ -32,18 +32,22 @@ The project is built using:
 
 ### For Server
 
+```bash
 cd ./client/server
 npm install
 npm start
+```
 
 ### For Client
 
-cd ./client
+```bash
+cd ./client/
 npm install
 npm start
+```
 
 ## Note : 
-1. Before running, ensure you have MongoDB installed and running locally. Check for the MONGO_URI in the local machine, create a database named "user_management_db" with a collection named "users".
+Before running, ensure you have MongoDB installed and running locally. Check for the MONGO_URI in the local machine, create a database named "user_management_db" with a collection named "users".
 Once the installations and configurations are completed, execute the project.
 
-Now, the application is ready to use! Open your web browser and access the application.
+--> Now, the application is ready to use! Open your web browser and access the application.
